@@ -38,4 +38,5 @@ Here I'll be documenting my DSA jounery
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Prabhat0710/DSA/tree/main/0007-reverse-integer/) | Medium |
+| [2235-add-two-integers](https://github.com/Prabhat0710/DSA/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
