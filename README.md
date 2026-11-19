@@ -9,6 +9,7 @@ Here I'll be documenting my DSA jounery
 | [0001-two-sum](https://github.com/Prabhat0710/DSA/tree/main/0001-two-sum/) | Easy |
 | [0054-spiral-matrix](https://github.com/Prabhat0710/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Prabhat0710/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Prabhat0710/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Here I'll be documenting my DSA jounery
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Prabhat0710/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Prabhat0710/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +41,8 @@ Here I'll be documenting my DSA jounery
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Prabhat0710/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [2235-add-two-integers](https://github.com/Prabhat0710/DSA/tree/main/2235-add-two-integers/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3467-transform-array-by-parity](https://github.com/Prabhat0710/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 <!---LeetCode Topics End-->
