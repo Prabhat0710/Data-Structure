@@ -45,4 +45,12 @@ Here I'll be documenting my DSA jounery
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3467-transform-array-by-parity](https://github.com/Prabhat0710/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Prabhat0710/DSA/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Prabhat0710/DSA/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
