@@ -1,4 +1,4 @@
-/*
+/**
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
@@ -12,17 +12,29 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        stack<int> stack;
-        ListNode* curr = head;
-        while (curr != NULL){
-            stack.push(curr->val);
-            curr = curr->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        ListNode* prev = NULL;
+        ListNode* temp = NULL;
+        while (fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        curr = head;
-        while (curr!=NULL && curr->val == stack.top()) {
-            stack.pop();
-            curr = curr->next;
+        prev = slow;
+        slow = slow->next;
+        prev->next = NULL;
+        while (slow){
+            temp = slow->next;
+            slow->next = prev;
+            prev = slow;
+            slow = temp;
         }
-        return curr == NULL;
+        fast = head, slow = prev;
+        while (slow){
+            if (fast->val != slow->val) return false;
+            else fast = fast->next;
+            slow = slow->next;
+        }
+        return true;
     }
 };
