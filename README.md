@@ -18,6 +18,7 @@ Here I'll be documenting my DSA jounery
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Prabhat0710/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Prabhat0710/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -52,6 +53,7 @@ Here I'll be documenting my DSA jounery
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Prabhat0710/DSA/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Prabhat0710/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,9 +66,14 @@ Here I'll be documenting my DSA jounery
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Prabhat0710/DSA/tree/main/0344-reverse-string/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
