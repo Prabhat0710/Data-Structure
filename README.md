@@ -18,6 +18,7 @@ Here I'll be documenting my DSA jounery
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/Prabhat0710/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Prabhat0710/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Binary Search
@@ -64,4 +65,8 @@ Here I'll be documenting my DSA jounery
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Prabhat0710/DSA/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
