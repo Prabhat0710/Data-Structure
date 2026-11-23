@@ -18,6 +18,7 @@ Here I'll be documenting my DSA jounery
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Prabhat0710/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Prabhat0710/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Prabhat0710/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -66,6 +67,7 @@ Here I'll be documenting my DSA jounery
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Prabhat0710/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
