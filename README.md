@@ -20,6 +20,7 @@ Here I'll be documenting my DSA jounery
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Prabhat0710/DSA/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prabhat0710/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prabhat0710/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Prabhat0710/DSA/tree/main/0344-reverse-string/) | Easy |
@@ -70,6 +71,7 @@ Here I'll be documenting my DSA jounery
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Prabhat0710/DSA/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prabhat0710/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prabhat0710/DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prabhat0710/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
