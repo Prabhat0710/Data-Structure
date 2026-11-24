@@ -13,14 +13,14 @@ public:
     ListNode* deleteDuplicates(ListNode* head) {
         ListNode* temp = head;
 
-        while(head && head->next){
-            if(head->val == head->next->val){
-                head->next = head->next->next;
+        while(temp && temp->next){
+            if(temp->val == temp->next->val){
+                temp->next = temp->next->next;
             }
             else{
-                head = head->next;
+                temp = temp->next;
             }
         }
-        return temp;
+        return head;
     }
 };
