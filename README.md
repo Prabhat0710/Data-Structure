@@ -29,6 +29,7 @@ Here I'll be documenting my DSA jounery
 | [0344-reverse-string](https://github.com/Prabhat0710/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Prabhat0710/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Prabhat0710/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ Here I'll be documenting my DSA jounery
 | [0160-intersection-of-two-linked-lists](https://github.com/Prabhat0710/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Prabhat0710/DSA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
