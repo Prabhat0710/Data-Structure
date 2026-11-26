@@ -23,6 +23,7 @@ Here I'll be documenting my DSA jounery
 | [0061-rotate-list](https://github.com/Prabhat0710/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prabhat0710/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Prabhat0710/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/Prabhat0710/DSA/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prabhat0710/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Prabhat0710/DSA/tree/main/0344-reverse-string/) | Easy |
@@ -35,6 +36,7 @@ Here I'll be documenting my DSA jounery
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Prabhat0710/DSA/tree/main/0148-sort-list/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Prabhat0710/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Prabhat0710/DSA/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Matrix
@@ -76,6 +78,7 @@ Here I'll be documenting my DSA jounery
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prabhat0710/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prabhat0710/DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Prabhat0710/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/Prabhat0710/DSA/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prabhat0710/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Prabhat0710/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -91,4 +94,12 @@ Here I'll be documenting my DSA jounery
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Prabhat0710/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Prabhat0710/DSA/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Prabhat0710/DSA/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
